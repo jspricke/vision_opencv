@@ -21,7 +21,6 @@
   <build_depend>libopencv-dev</build_depend>
   <build_depend>sensor_msgs</build_depend>
 
-  <exec_depend>libopencv-dev</exec_depend>
   <build_export_depend>libopencv-dev</build_export_depend>
   <build_export_depend>sensor_msgs</build_export_depend>
 
